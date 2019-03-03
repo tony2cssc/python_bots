@@ -12,6 +12,8 @@ twisted = {path = "./wheels/Twisted-18.9.0-cp37-cp37m-win_amd64.whl"}
 rasa-nlu = "*"
 spacy = "==2.0.16"
 jupyter = "*"
+sklean-crfsuite = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.7"
