@@ -1,0 +1,2 @@
+model_checkpoint_path: "d:\\GitRepo\\python_bots\\horoscope_bot\\./models/nlu\\default\\horoscopebot\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "d:\\GitRepo\\python_bots\\horoscope_bot\\./models/nlu\\default\\horoscopebot\\intent_classifier_tensorflow_embedding.ckpt"
